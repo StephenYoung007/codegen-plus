@@ -5,7 +5,6 @@ spring:
   application:
     name: @artifactId@
   datasource:
-    type: com.zaxxer.hikari.HikariDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: dongfang_user
     password: sK5zT$YEl#S*YKLK8Qm^6b0iH7j!M0JU
